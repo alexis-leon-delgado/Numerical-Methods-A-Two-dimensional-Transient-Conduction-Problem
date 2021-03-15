@@ -3,7 +3,7 @@ Implementation of a numerical methods Matlab code with a line-by-line solver (Ga
 
 Focus of study: thermal transient analysis of a tetramaterialcross section bar.
 
-Project performed as an additional activity of the subject "Gas dynamics and heat and mass transfer", part of the BSc Aerospace Engineering
+Project performed as an additional activity of the subject "Gas dynamics and heat and mass transfer", part of the BSc Aerospace Engineering.
 
 An example of the resulting temperature maps are:
 
